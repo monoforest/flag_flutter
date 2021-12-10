@@ -1,3 +1,5 @@
+## [5.0.1-svg1.0.0]
+* updated flutter_svg to 1.0.0
 ## [5.0.1]
 * updated flutter_svg to 0.22.0
 * add enum_to_string library

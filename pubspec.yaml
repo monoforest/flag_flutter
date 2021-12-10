@@ -1,7 +1,7 @@
 name: flag
 description: A flag Flutter package. Use for showing flags. All flags came from https://www.un.org/en/member-states/index.html . 
-version: 5.0.1
-homepage: https://github.com/LunaGao/flag_flutter
+version: 5.0.1-svg1.0.0
+homepage: https://github.com/monoforest/flag_flutter
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_svg: ^0.23.0+1
+  flutter_svg: ^1.0.0
   enum_to_string: ^2.0.1
 
 dev_dependencies:
